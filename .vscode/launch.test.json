@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "assignment2",
+                "projectName": "assignment2",
+                "workingDirectory": "/home/grant/Google Drive/University of Texas at Austin/Semester 5/EE 422C/Homework/Project 2 Maven test/assignment2",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "assignment2",
+                "projectName": "assignment2",
+                "workingDirectory": "/home/grant/Google Drive/University of Texas at Austin/Semester 5/EE 422C/Homework/Project 2 Maven test/assignment2",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
